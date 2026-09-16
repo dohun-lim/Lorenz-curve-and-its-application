@@ -1,0 +1,1 @@
+# Lorenz-curve-and-its-application
